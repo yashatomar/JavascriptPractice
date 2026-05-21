@@ -1,0 +1,1 @@
+console.log("JavaScript is fun!"); // JavaScript is fun!
