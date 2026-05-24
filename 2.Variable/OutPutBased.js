@@ -24,7 +24,9 @@ let _username = "user123";
 let $price = 19.99;
 let firstName = "John";
 console.log(_username, $price, firstName);  
+
 //Invalid variable names (uncommenting these will cause errors)
 // let 1stName = "John"; // Cannot start with a number
 // let first-name = "John"; // Cannot contain hyphens
 // let var = "test"; // Cannot use reserved keywords
+
